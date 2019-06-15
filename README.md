@@ -2,6 +2,8 @@
 
 Support Formol's webpack/Babel requirements on Gatsby
 
+Learn more about Formol here: https://github.com/Kozea/formol
+
 ## Installing
 
 Run:
