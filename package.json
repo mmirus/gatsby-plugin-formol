@@ -14,7 +14,9 @@
   "license": "MIT",
   "peerDependencies": {
     "@babel/plugin-proposal-decorators": "7.x",
-    "gatsby": "2.x",
-    "formol": "2.x"
+    "babel-plugin-add-react-static-displayname": "0.0.x",
+    "date-fns": "~2.0.0-alpha.34",
+    "formol": "2.x",
+    "gatsby": "2.x"
   }
 }
