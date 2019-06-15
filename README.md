@@ -52,10 +52,10 @@ export default SignUpForm;
 ```js
 import React from "react";
 import { Link } from "gatsby";
-import SignUpForm from "../components/SignUpForm";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
+import SignUpForm from "../components/SignUpForm";
 
 const HomePage = () => (
   <Layout>
