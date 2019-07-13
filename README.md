@@ -14,6 +14,19 @@ Run:
 
 ## Using Formol
 
+### Config
+
+```js
+// gatsby-cinfig.js
+
+module.exports = {
+  plugins: [
+    'gatsby-plugin-formol',
+  ]
+}
+
+```
+
 ### Create your form
 
 ```js
