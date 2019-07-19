@@ -14,6 +14,14 @@ Run:
 
 ## Using Formol
 
+### Add to `gatsby-config.js`
+
+```js
+module.exports = {
+  plugins: [`gatsby-plugin-formol`],
+};
+```
+
 ### Create your form
 
 ```js
