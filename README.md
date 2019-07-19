@@ -18,8 +18,10 @@ Run:
 
 ```js
 module.exports = {
-  plugins: [`gatsby-plugin-formol`],
-};
+  plugins: [
+    `gatsby-plugin-formol`,
+  ],
+}
 ```
 
 ### Create your form
