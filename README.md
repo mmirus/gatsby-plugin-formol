@@ -12,12 +12,18 @@ Run:
 
 `yarn add -D @babel/plugin-proposal-decorators babel-plugin-add-react-static-displayname`
 
+or
+
+`npm i gatsby-plugin-formol formol date-fns@next`
+
+`npm i -D @babel/plugin-proposal-decorators babel-plugin-add-react-static-displayname`
+
 ## Using Formol
 
 ### Config
 
 ```js
-// gatsby-cinfig.js
+// gatsby-config.js
 
 module.exports = {
   plugins: [
